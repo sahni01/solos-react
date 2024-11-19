@@ -1,0 +1,20 @@
+.app-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.upload-container {
+  text-align: center;
+}
+
+.upload-button {
+  margin-top: 10px;
+  padding: 8px 16px;
+  background-color: #2196f3;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
